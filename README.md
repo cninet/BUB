@@ -1,4 +1,4 @@
-#BUB: Bus Route for the Blind
+# BUB: Bus Route for the Blind
 Due to the challenge does not allow to use the Internet, the app simulates locations and map information based on actual bus routes in Bangkok, Thailand.
 
 Currently, there are three available locations: Apple Central World, Chulalongkorn University, and Siam Paragon.
