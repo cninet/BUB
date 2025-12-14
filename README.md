@@ -19,8 +19,8 @@ Due to the **WWDC Swift Student Challenge** rules restricting internet access du
 ## 📱 How to Test / Demo
 The app currently supports simulation for three specific landmarks in Bangkok:
 1.  **Apple Central World**
-2.  **Siam Paragon**
-3.  **Chulalongkorn University**
+2.  **Chulalongkorn University**
+3.  **Siam Paragon**
 
 ### Voice Command Instructions
 To interact with the app, please use voice commands:
