@@ -25,7 +25,10 @@ The app currently supports simulation for three specific landmarks in Bangkok:
 ### Voice Command Instructions
 To interact with the app, please use voice commands:
 * You can speak the destination name clearly (e.g., *"Siam Paragon"*).
-* Alternatively, you can play a recorded voice file of the destination name.
+* Alternatively, you can play the recorded voice samples located in the **[`/DemoResources`](./DemoResources)** folder:
+  * 🔊 [Apple Central World](./DemoResources/Apple%20Central%20World.mp3)
+  * 🔊 [Chulalongkorn University](./DemoResources/Chulalongkorn%20University.mp3)
+  * 🔊 [Siam Paragon](./DemoResources/Siam%20Paragon.mp3)
 
 > **Note:** If you encounter a speech recognition error after granting Microphone and Speech permissions for the first time, please try speaking again.
 
